@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pinjaman Online</string>
+    <string name="cost_of_service">Jumlah Pinjaman</string>
+    <string name="how_was_the_service">Pilih Informasi Yang di Inginkan</string>
+    <string name="amazing_service">Yang Harus Dibayar</string>
+    <string name="good_service">Pencairan Bersih</string>
+
+    <string name="round_up_tip">Round up?</string>
+    <string name="calculate">Calculate</string>
+    <string name="tip_amount">Jumlah Uang: %s</string>
+</resources>
